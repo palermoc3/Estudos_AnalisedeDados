@@ -1,0 +1,101 @@
+ClienteID,name,email,cellphone,state,city
+1,Pedro Henrique Ramires,dodie.miller@crist.example,(12) 94977-9330,Rio Grande do Sul,Gravataí
+2,Arthur Miguel Louzada,starla@bailey-okuneva.example,(63) 91552-0912,Minas Gerais,Juiz de Fora
+3,Maria Valentina Barreto,luther@smitham-walker.test,(88) 93484-4504,Pernambuco,Jaboatão dos Guararapes
+4,Larissa Chaves,mohamed@fritsch-reichert.test,(30) 95457-5873,Bahia,Salvador
+5,Marcelo Macedo,flora_brakus@dickinson.test,(19) 99104-2513,Bahia,Camaçari
+6,Yago Sais,carol@schmitt-gerlach.test,(66) 96848-7229,Espírito Santo,Cariacica
+7,Marli Louzada,twanda@schmitt.test,(92) 94764-7873,Pernambuco,Jaboatão dos Guararapes
+8,Francisco Lopes,gavin.purdy@hessel-gulgowski.test,(41) 99917-4856,Goiás,Anápolis
+9,Emilly da Conceição,corey.turner@connelly.example,(22) 95776-8442,Minas Gerais,Juiz de Fora
+10,Carolina Vieira,raven@reilly.example,(70) 93154-3165,Bahia,Camaçari
+11,Talita Brum,collin@wintheiser.test,(91) 93297-6754,São Paulo,Ribeirão Preto
+12,Pietro Antunes,denny@goodwin.test,(35) 96449-1608,Bahia,Feira de Santana
+13,Theo Parreira,quentin_feil@hessel-leffler.example,(72) 95713-2218,Minas Gerais,Uberlândia
+14,Júlio Raia,stacey@conroy.example,(99) 99019-4459,Ceará,Crato
+15,Feliciano Franco,tory@gorczany-mosciski.example,(81) 95103-8167,Paraná,Curitiba
+16,Sra. Aurora Silva,wonda_sawayn@kassulke.test,(80) 99410-8755,Ceará,Fortaleza
+17,Valentina Hermingues Jr.,angla@konopelski-deckow.example,(86) 91522-1411,Ceará,Crato
+18,Maria Cecília Casqueira Jr.,son@leffler.example,(68) 92250-5551,Paraná,Ponta Grossa
+19,Ana Clara Meireles Neto,carmela@toy.test,(86) 94711-8594,Bahia,Feira de Santana
+20,Frederico da Penha,beckie@altenwerth.test,(37) 97947-9180,Pernambuco,Olinda
+21,Ana Júlia Marcondes Neto,adrien@morissette.test,(41) 93231-3439,Bahia,Camaçari
+22,Letícia Tavares Neto,vashti.hessel@williamson-miller.example,(11) 97123-4085,Rio Grande do Sul,Porto Alegre
+23,Arthur Galego,rolland.runolfsdottir@price.example,(24) 97938-3790,Ceará,Fortaleza
+24,Isabela Corrêa,charlott@oconner.test,(83) 91783-5881,Rio Grande do Sul,Gravataí
+25,Sirineu Gomide,fidel@huel.example,(60) 99595-8932,Rio Grande do Sul,Santa Maria
+26,Dr. Alessandra Crespo,judson@mueller-baumbach.test,(36) 93976-0581,Rio Grande do Sul,Gravataí
+27,Lorraine Menendes Filho,danilo.blick@stracke.example,(80) 99212-7281,Ceará,Juazeiro do Norte
+28,Dra. Mariah Rêgo,henrietta_blick@frami.example,(52) 93487-4258,Rio Grande do Sul,Gravataí
+29,Isabela Espinheira,earnest_luettgen@williamson.test,(18) 95507-6146,São Paulo,Santos
+30,Sr. Davi Luiz Ramalho,breana.schuppe@bergnaum.test,(29) 91280-0980,São Paulo,Ribeirão Preto
+31,Srta. João Victor Figueira,louanne.donnelly@marks.example,(67) 95305-2764,Paraná,Maringá
+32,Dr. Hugo Veles,hwa@leannon.example,(68) 98494-9866,Minas Gerais,Juiz de Fora
+33,Oliver Vasques,gordon.flatley@padberg.example,(46) 91801-9334,Minas Gerais,Betim
+34,João Victor Veles,francis@torp.test,(42) 98899-0729,Goiás,Rio Verde
+35,Maria Helena Ramalho,latoria_williamson@hudson.example,(95) 96382-3065,Goiás,Aparecida de Goiânia
+36,Carla Gomes,arthur@kovacek.test,(73) 96936-5495,Bahia,Itabuna
+37,Henry Moniz Jr.,mervin.braun@schneider.test,(26) 91346-4820,Espírito Santo,Linhares
+38,Gabrielly Ramos,grant.larkin@schimmel.test,(51) 97198-8686,Minas Gerais,Juiz de Fora
+39,Suélen da Cunha,gaynelle@kuvalis.example,(40) 99441-1114,Rio Grande do Sul,Santa Maria
+40,Helena Lessa Jr.,conrad@rodriguez.example,(41) 95912-1707,Rio de Janeiro,Rio de Janeiro
+41,Sra. Pietro dos Reis,alisia@bernhard.example,(91) 98210-9781,São Paulo,Sorocaba
+42,Isabelly Neves,jack_harvey@jacobs.test,(40) 98001-4464,São Paulo,Santos
+43,Isis Domingues,drew@jaskolski.test,(45) 95162-3530,Minas Gerais,Juiz de Fora
+44,Cauã Passarinho Jr.,deann@damore.example,(64) 94790-7025,São Paulo,Santos
+45,Pérola Oliveira,nickolas@abshire.test,(53) 91767-8941,Paraná,Curitiba
+46,Pérola Ferraço,paris.koepp@wiza-ernser.example,(15) 98203-2742,São Paulo,Campinas
+47,Sara Fontes,hazel.hayes@dickinson.example,(43) 95864-1316,Goiás,Rio Verde
+48,Sr. Vinícius Vasques,jeanna.nikolaus@torp.test,(40) 95796-4791,Minas Gerais,Contagem
+49,Bruno Peixoto,bruno_reinger@emard.test,(37) 95668-7322,Rio de Janeiro,Campos dos Goytacazes
+50,Maria Laura do Prado,delphine@doyle-wiegand.test,(94) 91927-9256,Minas Gerais,Contagem
+51,Gúbio Vidal Filho,lashandra@stamm-bins.test,(84) 94622-8133,Rio de Janeiro,Volta Redonda
+52,Gabriela Modesto,lana@casper.example,(35) 93866-8983,Pernambuco,Olinda
+53,Sophie Pinheira,philip@von.example,(81) 99319-8936,Bahia,Feira de Santana
+54,Thiago Junqueira,jeri_leffler@oconnell.example,(38) 94080-9011,Pernambuco,Petrolina
+55,Vinícius da Gama,devon@mante.test,(92) 94602-9065,Goiás,Aparecida de Goiânia
+56,João Miguel Filgueira,piedad.damore@frami-weimann.example,(69) 98271-0080,Minas Gerais,Belo Horizonte
+57,Leonardo Quaresma,moira@schmidt-beahan.test,(29) 91740-6524,Goiás,Rio Verde
+58,Maria Alice Bulhões,kira.jones@bailey.example,(49) 95176-5635,Goiás,Rio Verde
+59,Sr. Salvador Barreira,sau.steuber@sipes.test,(99) 97521-5454,Pernambuco,Olinda
+60,Erick Veloso,elvina_barrows@prosacco-hahn.example,(80) 96881-4732,Rio Grande do Sul,Porto Alegre
+61,Ígor Farias,lindsay.gerlach@rowe.example,(47) 94269-2400,Espírito Santo,Linhares
+62,Noah Reis,melvina_turcotte@padberg.example,(40) 91584-3444,Minas Gerais,Juiz de Fora
+63,Djalma Álvares,russel.koepp@morissette.test,(95) 95236-8117,Minas Gerais,Juiz de Fora
+64,Cecília Diegues,armand@crona-stoltenberg.example,(18) 98159-1339,Espírito Santo,Cariacica
+65,Maria Júlia Raia,carolina@leuschke-reilly.test,(78) 98488-1596,Rio de Janeiro,Niterói
+66,João Miguel Aguiar,ward@senger.example,(31) 93067-0695,Rio Grande do Sul,Porto Alegre
+67,Ana Laura Santos,rory.hammes@mills-aufderhar.test,(49) 95201-1669,Bahia,Camaçari
+68,Margarida Cabreira Jr.,eleanor@steuber.test,(36) 98082-4772,Rio de Janeiro,Rio de Janeiro
+69,Pietra Barata Jr.,angelic@thompson.example,(18) 98297-7120,São Paulo,Santos
+70,João Gabriel Soares,lajuana@krajcik.test,(94) 97058-8169,Paraná,Londrina
+71,Ricardo Fogaça,lilly@mclaughlin.example,(73) 95810-1055,São Paulo,Ribeirão Preto
+72,Luana da Bandeira,jae.hauck@tromp.test,(11) 98048-2927,São Paulo,Sorocaba
+73,Luiza Bernardes,dario.stamm@gibson-davis.test,(23) 97970-4495,Paraná,Curitiba
+74,Benjamin Fernandes Filho,shawanda_kohler@lind.example,(28) 92824-3109,Goiás,Goiânia
+75,Tiago Munhoz,bud_koch@kuvalis.example,(87) 94026-5715,Ceará,Juazeiro do Norte
+76,Mirella de Lara Filho,nerissa_keebler@champlin-cole.example,(30) 98553-7047,Bahia,Vitória da Conquista
+77,Louise Laranjeira,hans@gusikowski.example,(19) 95883-5038,Espírito Santo,Cariacica
+78,Bruno Lopes,moses@heller.example,(98) 96554-0342,Rio de Janeiro,Campos dos Goytacazes
+79,João Felipe Marcondes,ela@fadel.example,(84) 97986-9825,Minas Gerais,Belo Horizonte
+80,Luna Veloso,ehtel.blick@hauck-kutch.test,(98) 96527-8168,São Paulo,São Paulo
+81,Sr. Matheus da Luz,loyd.conn@sporer.example,(44) 95376-9343,Goiás,Rio Verde
+82,Sr. Ian Bouças,daron.nitzsche@bartoletti.test,(16) 94067-5501,Paraná,Londrina
+83,Guilherme Braga Filho,audria.bradtke@kulas-jenkins.test,(55) 97481-9325,Pernambuco,Recife
+84,Hélio da Silveira,venetta@hettinger.test,(35) 97784-7432,Ceará,Fortaleza
+85,Salvador Moura,pauline@howell-mills.test,(69) 96561-7695,Paraná,Maringá
+86,Daniel Carvalheira,emmett_weissnat@corwin.test,(78) 93639-4208,Minas Gerais,Betim
+87,João Cardoso,kent@harris-erdman.example,(89) 95206-7838,Rio de Janeiro,Campos dos Goytacazes
+88,Dra. Isis Nascimento,leigh@koepp.test,(68) 98348-7586,Bahia,Itabuna
+89,Sr. Emanuel Coutinho,marguerita@lubowitz.example,(24) 97728-7845,Bahia,Camaçari
+90,Tertuliano Carvalheira,forest@prohaska.test,(88) 93458-1825,Minas Gerais,Uberlândia
+91,Adriana da Terra,mike.bahringer@ohara-gibson.test,(87) 93851-4199,Paraná,Ponta Grossa
+92,Rafaela Gentil,parthenia@nitzsche.example,(80) 97734-6353,Goiás,Rio Verde
+93,João Victor Videira,santa_skiles@hills.example,(47) 94129-3187,Espírito Santo,Cariacica
+94,Maria Júlia Caseira,carlo_stiedemann@ankunding.test,(33) 93699-3476,Pernambuco,Jaboatão dos Guararapes
+95,Maria Cecília da Silveira,chong@walter-prohaska.test,(96) 99927-2137,Ceará,Sobral
+96,Igor Goulart,jimmy@mertz.example,(18) 96180-7937,Espírito Santo,Vitória
+97,Vitor Araújo,sean_greenfelder@kuhn.example,(47) 95981-8595,Ceará,Fortaleza
+98,Carolina Rezende,chantay@tremblay.example,(36) 93808-4756,Goiás,Aparecida de Goiânia
+99,Sr. Kauê Viveiros,mohammed@dibbert-schultz.example,(21) 99357-2249,São Paulo,Sorocaba
+100,Arthur Corrêa,hipolito@moen.test,(73) 93077-6852,Espírito Santo,Serra
